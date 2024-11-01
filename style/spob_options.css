@@ -1,0 +1,25 @@
+
+span.valid_key {
+    background-color: greenyellow;
+    font-size: 14px;
+}
+span.novalid_key {
+    background-color: red;
+    color: #fff;
+    font-size: 14px;
+}
+img.spob_help_img {
+    
+    
+    
+}
+div.image_bloc {
+    position: relative;
+    width: 200px;
+    height: 55px;
+    right: 0px;
+    top: 0px;
+    float: right;
+    
+    
+}
